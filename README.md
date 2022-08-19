@@ -39,5 +39,7 @@
 <p><em>DELETE</em> /activities</p>
 <ul>
 <li>Pueden borrar una actividad de un país en particular sin borrar todas las actividades se espera un identificador de país y un identificador de actividad: <code>{ countryId: "" activityId: "" }</code></li>
-</ul><h2>Contact</h2>
+</ul>
+<p><em>ADEMAS LO PUEDE USAR YA DEPLOYADO EN:</em></p>
+<p>https://countries-app-joel.herokuapp.com/</p><h2>Contact</h2>
 <hr><p><span style="margin-right: 30px;"></span><a href="https://www.linkedin.com/in/joel-orzet-3a0465215/"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="width: 10%;"></a><span style="margin-right: 30px;"></span><a href="https://github.com/joelorzet"><img target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="width: 10%;"></a></p>
